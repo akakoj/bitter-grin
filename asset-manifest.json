@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bitter-grin/static/css/main.073c9b0a.css",
+    "main.js": "/bitter-grin/static/js/main.69a15dbd.js",
+    "static/js/787.b451f8dc.chunk.js": "/bitter-grin/static/js/787.b451f8dc.chunk.js",
+    "static/media/logo.svg": "/bitter-grin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bitter-grin/index.html",
+    "main.073c9b0a.css.map": "/bitter-grin/static/css/main.073c9b0a.css.map",
+    "main.69a15dbd.js.map": "/bitter-grin/static/js/main.69a15dbd.js.map",
+    "787.b451f8dc.chunk.js.map": "/bitter-grin/static/js/787.b451f8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.69a15dbd.js"
+  ]
+}
